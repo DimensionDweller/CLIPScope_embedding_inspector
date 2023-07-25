@@ -1,3 +1,6 @@
+import torch
+torch_device = "cuda" if torch.cuda.is_available() else "cpu"
+
 def get_embeddings(terms, tokenizer, text_encoder):
     """
     Get embeddings for a list of terms.
