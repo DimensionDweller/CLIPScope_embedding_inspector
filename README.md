@@ -2,8 +2,9 @@
 
 This project provides an interactive visualization tool to explore the nearest neighbors in the embedding space produced by OpenAI's CLIP model. By inputting a set of terms, users can visualize the relationships and proximities of these terms in the embedding space, offering insights into the semantic associations made by the CLIP model.
 
-![Example Visualization]((https://github.com/DimensionDweller/CLIP_embedding_inspector/assets/75709283/c21e1f80-5b25-41f4-a060-b29ab2f88ebb)
-)  
+### Example Visualization
+(https://github.com/DimensionDweller/CLIP_embedding_inspector/assets/75709283/c21e1f80-5b25-41f4-a060-b29ab2f88ebb)
+  
 *Example using the terms: Women, Man, Boy, Girl, Puppy, Dog, Cat, Kitten.*
 
 ## Purpose
