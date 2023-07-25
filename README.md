@@ -4,6 +4,9 @@ This project provides an interactive visualization tool to explore the nearest n
 
 ### Example Visualization
 ![https://github.com/DimensionDweller/CLIP_embedding_inspector/assets/75709283/c21e1f80-5b25-41f4-a060-b29ab2f88ebb]
+
+
+![Example Visualization](https://github.com/DimensionDweller/CLIP_embedding_inspector/raw/main/assets/75709283/c21e1f80-5b25-41f4-a060-b29ab2f88ebb.png)
   
 *Example using the terms: Women, Man, Boy, Girl, Puppy, Dog, Cat, Kitten.*
 
